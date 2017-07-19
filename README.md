@@ -1,5 +1,3 @@
-# Homework for course of Prof. Juliana Freire
-
 ## Answers for exercise 2
 
 ## Findings about trees and sun (shadows) amount in New York City
